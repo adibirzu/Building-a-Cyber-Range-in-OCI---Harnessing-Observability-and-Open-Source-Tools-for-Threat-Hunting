@@ -2,7 +2,7 @@
 
 
 
-![image.png]
+![[image.png]]
 Webinar resources
 
 Join us for an interactive webinar designed for cybersecurity professionals and cloud enthusiasts looking to enhance their threat-hunting capabilities. In this session, we will explore how to build a dynamic cyber range in Oracle Cloud Infrastructure (OCI). A cyber range is a simulated environment where organizations can test their defenses, train teams, and uncover vulnerabilities.
