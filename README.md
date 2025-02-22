@@ -2,7 +2,7 @@
 
 
 
-![[[image.png](https://github.com/adibirzu/Building-a-Cyber-Range-in-OCI---Harnessing-Observability-and-Open-Source-Tools-for-Threat-Hunting/blob/3ca5113aa9454f40fb7d286db80f6b37293931a1/image.png)]]
+![[https://github.com/adibirzu/Building-a-Cyber-Range-in-OCI---Harnessing-Observability-and-Open-Source-Tools-for-Threat-Hunting/blob/3ca5113aa9454f40fb7d286db80f6b37293931a1/image.png]]
 Webinar resources
 
 Join us for an interactive webinar designed for cybersecurity professionals and cloud enthusiasts looking to enhance their threat-hunting capabilities. In this session, we will explore how to build a dynamic cyber range in Oracle Cloud Infrastructure (OCI). A cyber range is a simulated environment where organizations can test their defenses, train teams, and uncover vulnerabilities.
