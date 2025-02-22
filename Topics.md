@@ -8,6 +8,7 @@ Topics that will be covered
 https://ecs-org.eu/ecso-uploads/2023/05/2020_SWG-5.1_paper_UnderstandingCyberRanges_final_v1.0-update.pdf 
 https://www.ibm.com/think/topics/cyber-range 
 https://github.com/center-for-threat-informed-defense/adversary_emulation_library/
+https://github.com/Orange-Cyberdefense/GOAD 
 
 2- Discuss on the Build-in capabilitities from Security and Observability perspective
 Quick show of [Logging](https://docs.oracle.com/en-us/iaas/Content/Logging/Concepts/loggingoverview.htm), [Cloud Guard](https://docs.oracle.com/en-us/iaas/cloud-guard/home.htm) and [Cloud Guard Query](https://docs.oracle.com/en-us/iaas/cloud-guard/using/queries-about.htm#queries-about), [Logging Analytics](https://docs.oracle.com/en-us/iaas/logging-analytics/doc/logging-analytics1.html)
@@ -24,15 +25,9 @@ https://learnoci.cloud/how-to-get-sysmon-events-into-logging-analytics-798eec1e5
 8 - Demo on Caldera attack on GOAD Infra and show the Alerting option in Logging Analytics.
 https://medium.com/learnoci/leveraging-caldera-in-oracle-cloud-infrastructure-oci-a-comprehensive-guide-1e59ce5015f
 
-
-
-Additional Material:
-Read this article and more educational content for free in PROMPT# SOC Issue 
-https://www.promptzine.com/soc-issue-articles 
   
-Resources on Active Directory:  
-Fun with Office Macros  
-https://www.youtube.com/live/cfKDnxeoTuQ 
+Some Resources on Active Directory:  
+
   
 From Zero to Hero: Beginner’s Guide to Active Directory  
 https://www.youtube.com/live/XwOV7HpVLEA
