@@ -1,3 +1,8 @@
+
+<img src="image.png" width="256"/>
+
+Topics that will be covered
+
 1 - Discuss about the advantages of having a Cyber Range and adversary emulation in OCI
 
 https://ecs-org.eu/ecso-uploads/2023/05/2020_SWG-5.1_paper_UnderstandingCyberRanges_final_v1.0-update.pdf 
@@ -17,16 +22,7 @@ https://medium.com/learnoci/how-to-ingest-windows-logs-into-logging-analytics-ec
 https://learnoci.cloud/how-to-get-sysmon-events-into-logging-analytics-798eec1e57d5
 7 - Demo on Suricata log collection in Logging Analytics
 8 - Demo on Caldera attack on GOAD Infra and show the Alerting option in Logging Analytics.
-https://medium.com/learnoci/leveraging-caldera-in-oracle-cloud-infrastructure-oci-a-comprehensive-guide-1e59ce5015fb 
-
-
-Create an extended field definition for users in logging analytics:
-
-Run a powershell obfuscated command
-
-```powershell
-powershell.exe -e JgAgACgAZwBjAG0AIAAoACcAaQBlAHsAMAB9ACcAIAAtAGYAIAAnAHgAJwApACkAIAAoACIAVwByACIAKwAiAGkAdAAiACsAIgBlAC0ASAAiACsAIgBvAHMAdAAgACcASAAiACsAIgBlAGwAIgArACIAbABvACwAIABmAHIAIgArACIAbwBtACAAUAAiACsAIgBvAHcAIgArACIAZQByAFMAIgArACIAaAAiACsAIgBlAGwAbAAhACcAIgApAA==
-``` 
+https://medium.com/learnoci/leveraging-caldera-in-oracle-cloud-infrastructure-oci-a-comprehensive-guide-1e59ce5015f
 
 
 
