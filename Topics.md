@@ -17,13 +17,17 @@ Quick show of [Logging](https://docs.oracle.com/en-us/iaas/Content/Logging/Conce
 
 4- Present some How Guides on how to install [Arkime](https://medium.com/learnoci/how-to-install-arkime-moloch-using-embedded-open-search-19a7a58f8eff), [Security Onion](https://learnoci.cloud/how-to-install-security-onion-on-oci-9c968031718a), [Caldera](https://learnoci.cloud/leveraging-caldera-in-oracle-cloud-infrastructure-oci-a-comprehensive-guide-1e59ce5015fb), [Suricata](https://medium.com/learnoci/how-to-install-suricata-in-oci-and-send-the-logs-to-logging-analytics-53587e691fbc) on OCI
 
-5- Demo on how to install Management agent on Windows + Sysmon
-(https://medium.com/learnoci/how-to-ingest-windows-logs-into-logging-analytics-ec9fa591edc5)
-6- Demo on how to create a new parser for Sysmon in Logging Analytics
-(https://learnoci.cloud/how-to-get-sysmon-events-into-logging-analytics-798eec1e57d5)
-7 - Demo on Suricata log collection in Logging Analytics
-8 - Demo on Caldera attack on GOAD Infra and show the Alerting option in Logging Analytics.
+5- [Demo on how to install Management agent on Windows + Sysmon](https://medium.com/learnoci/how-to-ingest-windows-logs-into-logging-analytics-ec9fa591edc5)
+
+6- [Demo on how to create a new parser for Sysmon in Logging Analytics](https://learnoci.cloud/how-to-get-sysmon-events-into-logging-analytics-798eec1e57d5)
+
+7- [Demo on Suricata log collection in Logging Analytics](https://learnoci.cloud/how-to-install-suricata-in-oci-and-send-the-logs-to-logging-analytics-53587e691fbc)
+
+8- [Demo on Caldera attack on GOAD Infra and show the Alerting option in Logging Analytics]
 (https://medium.com/learnoci/leveraging-caldera-in-oracle-cloud-infrastructure-oci-a-comprehensive-guide-1e59ce5015f)
+
+
+Additional Observability links:
 
   
 Some Resources on Active Directory:  
