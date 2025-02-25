@@ -28,7 +28,7 @@ Quick show of [Logging](https://docs.oracle.com/en-us/iaas/Content/Logging/Conce
 
 
 Additional Observability links:
-
+https://github.com/oracle-devrel/technology-engineering/tree/main/manageability-and-operations/observability-and-manageability 
   
 Some Resources on Active Directory:  
 
