@@ -12,6 +12,5 @@ Integrate powerful open-source tools such as OSQuery, Arkime, and Suricata for r
 Simulate realistic attack scenarios in the cyber range to strengthen incident response skills.
 Build a seamless workflow to correlate logs from multiple sources, detect anomalies, and proactively address Advanced Persistent Threats (APTs).This hands-on webinar is perfect for SOC analysts, IT administrators, and security architects aiming to build robust, scalable security operations using OCI and open-source technologies.
 
-https://go.oracle.com/LP=146702?elqCampaignId=604016?src1=:ow:lp:cpo::::DXCPortal&intcmp=WWMK250120P00038:ow:lp:cpo::::DXCPortal 
-
+https://youtu.be/hFGeT5pQOrw?si=SHxXgHt9EAAlYYbB 
 
